@@ -25,7 +25,7 @@ use strict;
 use vars qw($VERSION $AUTOLOAD);
 
 
-$VERSION = '0.05';
+$VERSION = '0.06';
 
 
 my $Debug   = 0;
